@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Button"
       url: "/sample/"
-excerpt: " "
+excerpt: "my name is kim donggyu i am hanyang university student"
 intro:
   - excerpt: ""
 ---
