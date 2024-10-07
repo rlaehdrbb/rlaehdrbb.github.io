@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "kim donggyu."
 layout: splash
 header:
   overlay_color: "#fff"
@@ -8,15 +8,15 @@ header:
   actions:
     - label: "Button"
       url: "/sample/"
-excerpt: "my name is kim donggyu i am hanyang university student"
+excerpt: " "
 intro:
-  - excerpt: ""
+  - excerpt: " "
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 ## Title
 
-Body
+my name is kim donggyu i am hanyang university student
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
